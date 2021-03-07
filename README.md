@@ -8,3 +8,4 @@ To use in netbeans
 1) import the folder Client,Message,Server in netbeans
 2) connect the sql connector 
 3) Make a Database name=chat_up_database
+4) Note that,Server is recommended to open in jar file and file name=data must be made,Otherwise it may give Exception
