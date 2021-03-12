@@ -13,7 +13,6 @@ To use in netbeans
 Description 
 1)Multi Clients application
 2)Show the status of Online User
-3)Registraion and Sign-in/Sign-Out functionality
-4)Chats are Saved in Database(Mysql)
-5)User can send text,photo,file and can also Download it.
-6)User can do recording as well as they can send recording also.
+3)Registration and Sign-in/Sign-Out functionality
+4)Chats are Saved in Database(MySQL)
+5)User can send text,photo,file and can also Download it. 6)User can do recording as well as they can send recording also
